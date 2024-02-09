@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicQuestion.iml" filepath="$PROJECT_DIR$/BasicQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeManagement/EmployeeManagement.iml" filepath="$PROJECT_DIR$/EmployeeManagement/EmployeeManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q1Arraylist/Q1Arraylist.iml" filepath="$PROJECT_DIR$/Q1Arraylist/Q1Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q3Arraylist/Q3Arraylist.iml" filepath="$PROJECT_DIR$/Q3Arraylist/Q3Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q4Arraylist/Q4Arraylist.iml" filepath="$PROJECT_DIR$/Q4Arraylist/Q4Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q5Arraylist/Q5Arraylist.iml" filepath="$PROJECT_DIR$/Q5Arraylist/Q5Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q6LinkedList/Q6LinkedList.iml" filepath="$PROJECT_DIR$/Q6LinkedList/Q6LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q7Vector/Q7Vector.iml" filepath="$PROJECT_DIR$/Q7Vector/Q7Vector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q8EmpStoreVector/Q8EmpStoreVector.iml" filepath="$PROJECT_DIR$/Q8EmpStoreVector/Q8EmpStoreVector.iml" />
+    </modules>
+  </component>
+</project>

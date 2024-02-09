@@ -5,8 +5,8 @@ public class PositiveNegativeZero {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Valid Integer:");
         int n = sc.nextInt();
-        if(n<0) System.out.println("Negative");
-        else if(n>0) System.out.println("Positive");
+        if (n < 0) System.out.println("Negative");
+        else if (n > 0) System.out.println("Positive");
         else System.out.println("Zero");
     }
 }
